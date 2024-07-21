@@ -6,7 +6,7 @@
   },
   {
     "name": "SOLAREDGEMONITOR",
-    "version": "3.3",
-    "changelog": "- Added new QuickApp variable serialNumber (Short serialNumer of your SolarEdge Inverter (see your Inverter Inventory Details)), mandatory for the Technical data request.\n- Added button for Site Power: Return todays site power measurements in 15 minutes resolution.\n- Added button for Site Energy: Return todays site energy measurements in 15 minutes resolution.\n- Added button for Inverter Technical Data: Return specific inverter data for a given timeframe.\n- Added button for Inventory: Return the inventory of SolarEdge equipment in the site, including inverters/SMIs, batteries, meters, gateways and sensors.\n- Added button for Storage information: Get detailed storage information from batteries: the state of energy, power and lifetime energy.\n- Added button for Meters data: Returns for each meter on site todays energy reading, metadata and the device to which it’s connected to.\n- Added button for Site Environmental Benefits: Returns all environmental benefits based on site energy production: CO2 emissions saved, equivalent trees planted, and light bulbs powered for a day.\n- Added button for Site Details: Displays the site details, such as name, location, status, etc.\n- Improved text and layout of all labels\n- Improved the debug messages\n- Added explaination for query limit of 300 requests to the readme file"
+    "version": "3.2",
+    "changelog": "Added extra buttons for more information and solved a bug"
   }
 ]
