@@ -1,11 +1,11 @@
 [
   {
-    "name": "TESTQA",
+    "qaid": "TESTQA",
     "version": "2.0",
     "changelog": "Updated to test notification"
   },
   {
-    "name": "SOLAREDGEMONITOR",
+    "qaid": "SOLAREDGEMONITOR",
     "version": "3.3",
     "changelog": "Added extra buttons for more information and solved a bug"
   }
