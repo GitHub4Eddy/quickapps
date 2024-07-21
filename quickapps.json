@@ -7,13 +7,13 @@
   {
     "qaid": "SOLAREDGEMONITOR",
     "version": "3.3",
-    "changelog": "- Added button for Optimizer info<BR>
-- Added button for Software info<BR>
-- Added username and password to quickapp variables to enable "Optimizer" and "Software" request<BR>
-- Added reporterID to quickapp variables to enable "Software" request<BR>
-- Added automaticaly retrieval of the Serial Number with the "Inventory" function (just like Reporter ID with the "Optimizer" function)<BR>
-- Changed API key to secret quickapp variable (just like password) <BR>
-- Improved some translations<BR>
-- Solved a bug when technical, storage and meters data wasn't available (for example just after midnight)<BR>"
+    "changelog": "- Added button for Optimizer info
+- Added button for Software info
+- Added username and password to quickapp variables to enable "Optimizer" and "Software" request
+- Added reporterID to quickapp variables to enable "Software" request
+- Added automaticaly retrieval of the Serial Number with the "Inventory" function (just like Reporter ID with the "Optimizer" function)
+- Changed API key to secret quickapp variable (just like password)
+- Improved some translations
+- Solved a bug when technical, storage and meters data wasn't available (for example just after midnight)"
   }
 ]
