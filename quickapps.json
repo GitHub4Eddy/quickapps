@@ -8,5 +8,10 @@
     "qaid": "AIRQUALITYOWM",
     "version": "2.0",
     "changelog": "- Solved an bug when OpenWeatherMap gave an empty result <br />- Change code to multifile <br />"
+  },
+  {
+    "qaid": "ZWAVEROUTE",
+    "version": "0.1",
+    "changelog": "- Initial version <br />"
   }
 ]
