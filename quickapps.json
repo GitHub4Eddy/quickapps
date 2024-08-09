@@ -4,7 +4,7 @@
     "version": "3.2",
     "changelog": "- Added button for Optimizer info <br />- Added button for Software info <br />- Added username and password to quickapp variables to enable 'Optimizer' and 'Software' request <br />- Added reporterID to quickapp variables to enable 'Software' request <br />- Added automaticaly retrieval of the Serial Number with the 'Inventory' function (just like Reporter ID with the 'Optimizer' function) <br />- Changed API key to secret quickapp variable (just like password) <br />- Improved some translations <br />- Solved a bug when technical, storage and meters data wasn't available (for example just after midnight) <br />- Solved error in diabled quickapp. If quickapp is disabled, now also the buttons and fibaro calls are disabled. <br />- Increased the default inverval time from 360 to 300 seconds <br />- Added update available notification <br />"
   },
-    {
+  {
     "qaid": "AIRQUALITYOWM",
     "version": "2.0",
     "changelog": "- Solved an bug when OpenWeatherMap gave an empty result <br />- Change code to multifile <br />"
@@ -12,6 +12,6 @@
   {
     "qaid": "ZWAVEROUTE",
     "version": "0.2",
-    "changelog": "- Changed the labels a bit <br />"
+    "changelog": "- Added check for neighborListRequestStatus property in case of not equal to 'ok' added to the labels <br />- Added check for lastWorkingRouteRequestStatus property in case of not equal to 'ok' added to the labels <br />- Added extra (zwave) filter for device list, to speed it a bit up <br />- Changed some readme text <br />- Added translation for English, French, German, Spanish, Portuguese and Dutch <br />"
   }
 ]
