@@ -11,7 +11,7 @@
   },
   {
     "qaid": "ZWAVEROUTE",
-    "version": "0.6",
+    "version": "0.7",
     "changelog": "- Extra check if device mentioned in lastWorkingRoute exists with warning and label text <br />"
   }
 ]
