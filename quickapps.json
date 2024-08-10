@@ -11,7 +11,7 @@
   },
   {
     "qaid": "ZWAVEROUTE",
-    "version": "0.71",
-    "changelog": "- Changed the serial number to the name of the HomeCenter in the labels. <br />- Improved the text of the new debug messages (debug level 3) <br />- Solved a bug when device have an empty property <br />- Extra check if device mentioned in lastWorkingRoute exists with warning and label text <br />- Added extra debug logging (debugLevel 3) <br />- Added routine to disable the quickapp <br />- Solved a bug with the translation <br />- Added check for neighborListRequestStatus property in case of not equal to 'ok' added to the labels <br />- Added check for lastWorkingRouteRequestStatus property in case of not equal to 'ok' added to the labels <br />- Added extra (zwave) filter for device list, to speed it a bit up <br />- Changed some readme text <br />- Added translation for English, French, German, Spanish, Portuguese and Dutch <br />"
+    "version": "0.72",
+    "changelog": "- Added status 'dead' and 'dead reason' to the labels and debug logging <br />- Added status 'disabled' to the labels and debuglogging <br />- Added current time and date to the labels <br />- Added 'Master' or 'Slave' to the HomeCenter name in the labels <br />- Changed the labels a bit to show the difference between HC3 and device with Last Working Route devices <br />- Optimized the debug logging level 3 <br />"
   }
 ]
