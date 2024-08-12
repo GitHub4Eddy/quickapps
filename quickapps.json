@@ -12,6 +12,6 @@
   {
     "qaid": "ZWAVEROUTE",
     "version": "0.8",
-    "changelog": "- Added a select button for the QuickApp Variable 'Show Direct Connected' <br />- Moved the 'Push a button' / 'Working' from the labes to the Refresh button text <br />"
+    "changelog": "- Added a select button for the QuickApp Variable 'Show Direct Connected' <br />- Moved the 'Push a button' / 'Working' from the labels to the Refresh button text <br />"
   }
 ]
