@@ -11,7 +11,7 @@
   },
   {
     "qaid": "ZWAVEROUTE",
-    "version": "0.72",
-    "changelog": "- Added status 'dead' and 'dead reason' to the labels and debug logging <br />- Added status 'disabled' to the labels and debuglogging <br />- Added current time and date to the labels <br />- Added 'Master' or 'Slave' to the HomeCenter name in the labels <br />- Changed the labels a bit to show the difference between HC3 and device with Last Working Route devices <br />- Optimized the debug logging level 3 <br />"
+    "version": "0.8",
+    "changelog": "- Added a select button for the QuickApp Variable 'Show Direct Connected' <br />- Moved the 'Push a button' / 'Working' from the labes to the Refresh button text <br />"
   }
 ]
