@@ -11,7 +11,7 @@
   },
   {
     "qaid": "ZWAVEROUTE",
-    "version": "0.8",
-    "changelog": "- Added a select button for the QuickApp Variable 'Show Direct Connected' <br />- Moved the 'Push a button' / 'Working' from the labels to the Refresh button text <br />"
+    "version": "0.9",
+    "changelog": "- Sorted the devices in the labels on section order, room order and device id <br />- Changed the order of the devices, the HomeCenter last <br />- Erased the loop (api.get('/devices/[deviceID]')) <br />- Added Z-Wave Engine Version to the labels <br />- Changed Z-wave to Z-Wave <br />"
   }
 ]
