@@ -11,7 +11,7 @@
   },
   {
     "qaid": "ZWAVEROUTE",
-    "version": "0.9",
-    "changelog": "- Sorted the devices in the labels on section order, room order and device id <br />- Changed the order of the devices, the HomeCenter last <br />- Erased the loop (api.get('/devices/[deviceID]')) <br />- Added Z-Wave Engine Version to the labels <br />- Changed Z-wave to Z-Wave <br />"
+    "version": "0.91",
+    "changelog": "- Added Z-Wave traffic statistics <br />- Improved the sorting order a bit <br />- Added❗to some debug loggings (level 3) <br />"
   }
 ]
