@@ -11,7 +11,7 @@
   },
   {
     "qaid": "ZWAVEROUTE",
-    "version": "0.91",
-    "changelog": "- Added Z-Wave traffic statistics <br />- Improved the sorting order a bit <br />- Added❗to some debug loggings (level 3) <br />"
+    "version": "0.92",
+    "changelog": "- Added filter button to show Traffic nul values or not <br />"
   }
 ]
