@@ -11,12 +11,12 @@
   },
   {
     "qaid": "ZWAVEROUTE",
-    "version": "0.92",
-    "changelog": "- Added filter button to show Traffic nul values or not <br />"
+    "version": "0.93",
+    "changelog": "- Changed the name of the QuickApp to Z-Wave Analyzer <br />- Cleaned up the code <br />- Added http timeout to QuickApp variable (default value 5) <br />"
   },
   {
     "qaid": "ZWAVEANALYZER",
     "version": "0.93",
-    "changelog": "- Changed the name of the Quickapp to Z-Wave Analyzer <br />"
+    "changelog": "- Changed the name of the QuickApp to Z-Wave Analyzer <br />- Cleaned up the code <br />- Added http timeout to QuickApp variable (default value 5) <br /><br />"
   }
 ]
