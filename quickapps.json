@@ -13,5 +13,10 @@
     "qaid": "ZWAVEROUTE",
     "version": "0.92",
     "changelog": "- Added filter button to show Traffic nul values or not <br />"
+  },
+  {
+    "qaid": "ZWAVEANALYZER",
+    "version": "0.93",
+    "changelog": "- Changed the name of the Quickapp to Z-Wave Analyzer <br />"
   }
 ]
