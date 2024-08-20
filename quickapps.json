@@ -11,11 +11,11 @@
   },
   {
     "qaid": "ZWAVEROUTE",
-    "version": "0.94",
-    "changelog": "- Added a Switch Control to be able to filter on the amount of hops of each device (all devices, all directly connected devices, zero hops, one hop, two hops, three hops and four hops (maximum amount of Z-Wave hops)<br />- Added Security Level to the labels of Traffic Information<br />- Changed the filter for 'devices not directly connected to the HomeCenter' to also include devices NOT connected to the HomeCenter<br />- Changed some more critical Route and Traffic loggings to warnings, so you will always see them, also without debug logging<br />"  },
+    "version": "0.95",
+    "changelog": "Added a Switch Control to select one device (If one device is selected, the Switch Control of the Route Hops is de-selected. If the Route Hops is selected, the Switch Control of device selection is de-selected.) <br />"},
   {
     "qaid": "ZWAVEANALYZER",
-    "version": "0.94",
-    "changelog": "- Added a Switch Control to be able to filter on the amount of hops of each device (all devices, all directly connected devices, zero hops, one hop, two hops, three hops and four hops (maximum amount of Z-Wave hops)<br />- Added Security Level to the labels of Traffic Information<br />- Changed the filter for 'devices not directly connected to the HomeCenter' to also include devices NOT connected to the HomeCenter<br />- Changed some more critical Route and Traffic loggings to warnings, so you will always see them, also without debug logging<br />"
+    "version": "0.95",
+    "changelog": "Added a Switch Control to select one device (If one device is selected, the Switch Control of the Route Hops is de-selected. If the Route Hops is selected, the Switch Control of device selection is de-selected.) <br />"
   }
 ]
