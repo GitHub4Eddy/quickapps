@@ -11,11 +11,11 @@
   },
   {
     "qaid": "ZWAVEROUTE",
-    "version": "0.96",
-    "changelog": "- Added Neighbor List button to show the neighbor devices <br />- Added Clear button to reset all buttons, switch statuses and labels <br />- Added Last Working Route Response Timestamp to the 'route' labels <br />- Added more translation text for the labels <br />"
+    "version": "0.95",
+    "changelog": "- Added Neighbor List button to show the neighbor devices <br />- Added Clear button to reset all buttons, switch statuses and labels <br />- Added Last Working Route Response Timestamp to the 'route' labels <br />- Added more translation text for the labels <br />"},
   {
     "qaid": "ZWAVEANALYZER",
-    "version": "0.96",
+    "version": "0.95",
     "changelog": "- Added Neighbor List button to show the neighbor devices <br />- Added Clear button to reset all buttons, switch statuses and labels <br />- Added Last Working Route Response Timestamp to the 'route' labels <br />- Added more translation text for the labels <br />"
   }
 ]
