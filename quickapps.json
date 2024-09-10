@@ -27,5 +27,10 @@
     "qaid": "TIBBERMONITOR",
     "version": "3.1",
     "changelog": "- Added extra check for status 'awaiting market' <br />- Updated the variables in the the readme file <br />"
+  },
+  {
+    "qaid": "TIBBERLIVE",
+    "version": "3.1",
+    "changelog": "- Added check for QuickApp update <br />"
   }
 ]
