@@ -22,7 +22,7 @@
   {
     "qaid": "TIBBERMONITOR",
     "version": "4.0",
-    "changelog": "- Added Tibber Production values to the labels. <br />"
+    "changelog": "- Added Tibber Production values to the labels. <br />- Added Production Child devices for: <br /> - Hour-1 Production (production of the previous hour) <br />- Daily Production (production in kWh)<br />- Monthly Production (production in kWh) <br />- Yearly Production (production in kWh) <br />- Total Production (production in kWh, devicetype com.fibaro.energyMeter and automatic rateType=production for Fibaro Energy Panel) <br />- Added buttons to filter the labels in Prices, Prices Today, Prices Tomorrow, Consumption, Production and Reset (show all label content). <br />- Added nice graphs for today and tomorrow prices with the 🟩🟨🟧🟥🟪 colors. <br />- Added nice graphs for energy consumption and production with 🟧🟩 colors. <br />"
   },
   {
     "qaid": "TIBBERLIVE",
