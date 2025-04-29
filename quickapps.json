@@ -22,7 +22,7 @@
   {
     "qaid": "TIBBERMONITOR",
     "version": "4.2",
-    "changelog": "- Solved a bug with the child device for tomorrow 18:00 hour <br />"
+    "changelog": "- - Solved a bug with the child device for tomorrow 18:00 hour and a bug with creation of double child devices <br />"
   },
   {
     "qaid": "TIBBERLIVE",
