@@ -19,10 +19,15 @@
     "version": "0.96",
     "changelog": "- Added Neighbor List button to show the neighbor devices <br />- Added Clear button to reset all buttons, switch statuses and labels <br />- Added Last Working Route Response Timestamp to the 'route' labels <br />- Added more translation text for the labels <br />"
   },
+    {
+    "qaid": "TIBBERTRIGGER",
+    "version": "2.0",
+    "changelog": "Adjusted the Tibber Trigger QuickApp to the quarterly prices. <br />"
+  },
   {
     "qaid": "TIBBERMONITOR",
     "version": "4.2",
-    "changelog": "- - Solved a bug with the child device for tomorrow 18:00 hour and a bug with creation of double child devices <br />"
+    "changelog": "Solved a bug with the child device for tomorrow 18:00 hour and a bug with creation of double child devices in the Homecenter beta firmware. <br />"
   },
   {
     "qaid": "TIBBERLIVE",
