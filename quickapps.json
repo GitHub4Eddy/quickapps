@@ -5,6 +5,11 @@
     "changelog": "- Added PowerFlow query with extra childs for Grid (kW), Load (kW), PV (kW), Storage (kW) and Storage percentage. The childs can be created by setting the QuickApp Variable 'powerFlow' to true. These child give an insight on how many power flows from or to the Grid, Load and Storage, how many power flows from the PV and shows the percentage of the Storage. If Storage drops below 10%, 'Storage critical❗️' will be shown in de log text. <br />- Combined the Software and Technical data query with one button an run the query outsite the API. <br />- Rounded the Current Power, Solar Power and Lifetime Energy in the labels. <br />- Formatted the Last Update Date for the Optimizer/Panel values. <br />- Added a new button to show all credentials siteID, apiKey, serialNumber, reporterID, username and password in a label. Please handle this button with care to keep your credentials secure. You can turn this button on and off with the QuickApp Variable 'credButton' (default = false). The credentials will only show for 4 seconds. <br />- Added a new button to show help on the settings of the Quickapp Variables. <br />- Improved the warning and debug message of the panel request, added the panel number to the warning and debug message.  <br /> "
   },
   {
+    "qaid": "SOLAREDGEMODBUS",
+    "version": "0.3",
+    "changelog": "- Initial version.  <br /> "
+  },
+  {
     "qaid": "AIRQUALITYOWM",
     "version": "2.0",
     "changelog": "- Solved an bug when OpenWeatherMap gave an empty result <br />- Change code to multifile <br />"
