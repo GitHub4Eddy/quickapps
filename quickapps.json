@@ -26,8 +26,8 @@
   },
     {
     "qaid": "TIBBERTRIGGER",
-    "version": "2.0",
-    "changelog": "Adjusted the Tibber Trigger QuickApp to the quarterly prices. <br />"
+    "version": "1.1",
+    "changelog": "- Added start and end time to the log text <br />- Changed the maximum durationHours to 24 hours <br />"
   },
   {
     "qaid": "TIBBERMONITOR",
