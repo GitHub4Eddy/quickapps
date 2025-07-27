@@ -6,8 +6,8 @@
   },
   {
     "qaid": "SOLAREDGEMODBUS",
-    "version": "0.4",
-    "changelog": "- Initial version.  <br /> "
+    "version": "1.0",
+    "changelog": "- Initial version with child devices for addresses to configure in QuickApp Variables.  <br /> "
   },
   {
     "qaid": "AIRQUALITYOWM",
