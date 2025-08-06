@@ -10,6 +10,11 @@
     "changelog": "- Initial version with child devices for addresses to configure in QuickApp Variables.  <br /> "
   },
   {
+    "qaid": "SOLAREDGELIVE",
+    "version": "2.0",
+    "changelog": "- Second version of the SolarEdge Live QuickApp using the SolarEdge Modbus.  <br /> "
+  },
+  {
     "qaid": "AIRQUALITYOWM",
     "version": "2.0",
     "changelog": "- Solved an bug when OpenWeatherMap gave an empty result <br />- Change code to multifile <br />"
