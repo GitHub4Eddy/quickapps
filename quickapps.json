@@ -6,7 +6,7 @@
   },
   {
     "qaid": "SOLAREDGELIVE",
-    "version": "1.1",
+    "version": "1.2",
     "changelog": "- Changed the main device type to com.fibaro.powerMeter, so it can contain the AC Power value. <br /> - Added QuickApp variable for the main device register, mainRegister (default = 40084 AC Power). <br /> - Added default don't 'Save events to History' (saveLogs = false) to the setup of every child device. <br /> - Disabled the warnings for READ, WRITE and Invalid response. Users can't prevent those errors and to display them as warnings only clutters the logging. <br /> - Changed the text of the interval speed buttons to the content of the quickapp variables intervalChildsS, intervalChildsM and intervalChildsF. <br /> - Found a few old SolarEdge Modbus QuickApp names in the code and changed them also to SolarEdge Live. <br /> - Optimised the register mapping. <br /> - Changed the default interval timing to 60, 10 and 5 seconds. Of course, you can use your own settings. <br /> - Removed the expiration date. <br /> "
   },
   {
