@@ -21,8 +21,8 @@
   }, 
   {
     "qaid": "TIBBERTRIGGER",
-    "version": "2.0",
-    "changelog": "- QUARTER-HOURLY PRICES: Adjusted the Tibber Trigger QuickApp to the quarter-hourly prices. Tibber Trigger doesn't use the Tibber Monitor childs anymore, but now uses two Tibber Monitor global variables, one for all the today prices and one for all the tomorrow prices. <br />- Added lots of small improvements, like:<br />- Extra: at midnight when the timeslot is running, tomorrow prices change to today prices and today prices change to yesterday prices. <br />- Added extra handling of existance of the global variables for today en tomorrow prices. <br />- Added the date of the last price check to the labels. <br />- Added a new QuickApp variable showTax. If true then the prices will include all taxes (default = true), otherwise without taxes.  <br />"
+    "version": "2.1",
+    "changelog": "- Solved a tiny bug with the check for a new version. <br />"
   }, 
   {
     "qaid": "AIRQUALITYOWM",
