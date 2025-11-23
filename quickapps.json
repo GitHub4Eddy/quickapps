@@ -11,8 +11,8 @@
   },
   {
     "qaid": "TIBBERMONITOR",
-    "version": "5.1",
-    "changelog": " - Solved a bug with summer-winter time. <br />"
+    "version": "5.2",
+    "changelog": " - Solved a bug with the price (in cents) in the Energy Panel. <br />"
   },
   {
     "qaid": "TIBBERLIVE",
