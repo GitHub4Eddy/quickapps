@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"><title>Daikin Auth Code</title></head>
+<body>
+  <h1>Daikin Authorization</h1>
+  <p>Your authorization code:</p>
+  <pre id="code">waiting...</pre>
+  <script>
+    const params = new URLSearchParams(window.location.search);  // Read query params
+    const code = params.get('code');                             // Get ?code=...
+    document.getElementById('code').textContent = code || 'No code parameter found';
+  </script>
+</body>
+</html>
