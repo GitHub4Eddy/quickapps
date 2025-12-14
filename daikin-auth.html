@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head><title>Daikin Auth Code</title></head>
+<body>
+  <h1>Authorization Successful!</h1>
+  <p>Your authorization code: <strong id="code"></strong></p>
+  <script>
+    const urlParams = new URLSearchParams(window.location.search);
+    const code = urlParams.get('code');
+    document.getElementById('code').textContent = code;
+    console.log('Code:', code);  // For easy copy from dev tools
+  </script>
+</body>
+</html>
